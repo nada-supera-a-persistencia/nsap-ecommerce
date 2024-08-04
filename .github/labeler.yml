@@ -1,0 +1,49 @@
+
+'Alterado: Portal':
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'apps/api/**'
+
+'Alterado: API':
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'apps/portal/**'
+  
+'Alterado: Workflows':
+  - changed-files:
+      - any-glob-to-any-file:
+          - '.github/workflows/**'
+
+  - changed-files:
+      - any-glob-to-any-file:
+          - '.github/**'
+
+'Alterado: Componentes':
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'apps/portal/src/components/**'
+    
+'Alterado: Paginas':
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'apps/portal/src/app/**'
+    
+'Alterado: Imagens':
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'src/img/**'
+
+'Alterado: Estilos':
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'src/shared/styles/**'
+
+'Alterado: Testes':
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.tests.ts'
+
+'Alterado: Documentação':
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.md'
